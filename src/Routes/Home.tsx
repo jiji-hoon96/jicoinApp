@@ -83,7 +83,7 @@ function Home() {
                 animate="visible"
                 exit="leaving"
               >
-                <Link to={{ pathname: "/login" }}>
+                <Link to={{ pathname: "/coinlist" }}>
                   WelCome <br /> JiCoin
                 </Link>
               </LoginWelcomeBtn>

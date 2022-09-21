@@ -9,8 +9,7 @@ function Router() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="*" element={<Navigate to="/coinlist" />} />
-        <Route path="/" element={<Home />} />
+        <Route path="/jicoinApp" element={<Home />} />
         <Route path="/coinlist" element={<CoinList />} />
         <Route path="/price" element={<Price />} />
         <Route path="/coinlist/:coinId" element={<Coin />} />

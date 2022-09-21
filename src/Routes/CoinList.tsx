@@ -155,7 +155,7 @@ function CoinList() {
     navigate(`/search?keyword=${coinData.keyword}`);
   };
   const onLogout = () => {
-    navigate("/");
+    navigate("/jicoinApp");
   };
   const onPrice = () => {
     navigate("/price");
