@@ -6,7 +6,7 @@
     "node": "14.15.3",
     "npm": "6.14.9"
   },
-  "homepage": "https://jiji-hoon96.github.io/jicoin",
+  "homepage": "https://jiji-hoon96.github.io/jicoinApp",
   "dependencies": {
     "@apollo/client": "^3.6.2",
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
